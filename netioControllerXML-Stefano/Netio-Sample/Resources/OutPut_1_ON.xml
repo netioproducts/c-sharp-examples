@@ -1,0 +1,8 @@
+<set:Root xmlns:set="http://www.netio-products.com/XMLSchema/NETIO.xsd">
+ <Outputs>
+  <Output>
+   <ID>1</ID>
+   <Action>1</Action>
+  </Output>
+ </Outputs>
+</set:Root>

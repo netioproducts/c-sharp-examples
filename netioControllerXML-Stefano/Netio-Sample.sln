@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Netio-Sample", "Netio-Sample\Netio-Sample.csproj", "{91F35E0D-6FAB-418B-9FE4-3C5CD34C3602}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Doc", "Doc", "{FD308688-285F-4355-A9C1-BD34F9B21D51}"
+	ProjectSection(SolutionItems) = preProject
+		C:\Users\Stefano\Desktop\Readme.docx = C:\Users\Stefano\Desktop\Readme.docx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91F35E0D-6FAB-418B-9FE4-3C5CD34C3602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91F35E0D-6FAB-418B-9FE4-3C5CD34C3602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91F35E0D-6FAB-418B-9FE4-3C5CD34C3602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91F35E0D-6FAB-418B-9FE4-3C5CD34C3602}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08FE45B6-8759-4C30-8EC3-D9DEFCFBEA18}
+	EndGlobalSection
+EndGlobal

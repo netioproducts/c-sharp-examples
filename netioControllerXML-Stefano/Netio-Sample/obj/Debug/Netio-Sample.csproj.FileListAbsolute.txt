@@ -1,0 +1,16 @@
+D:\Dev\GlaspCollection\Articoli\Netio-Sample\Netio-Sample\bin\Debug\Netio-Sample.exe.config
+D:\Dev\GlaspCollection\Articoli\Netio-Sample\Netio-Sample\bin\Debug\Netio-Sample.exe
+D:\Dev\GlaspCollection\Articoli\Netio-Sample\Netio-Sample\bin\Debug\Netio-Sample.pdb
+D:\Dev\GlaspCollection\Articoli\Netio-Sample\Netio-Sample\obj\Debug\Netio-Sample.csprojAssemblyReference.cache
+D:\Dev\GlaspCollection\Articoli\Netio-Sample\Netio-Sample\obj\Debug\App.g.cs
+D:\Dev\GlaspCollection\Articoli\Netio-Sample\Netio-Sample\obj\Debug\Netio-Sample_MarkupCompile.cache
+D:\Dev\GlaspCollection\Articoli\Netio-Sample\Netio-Sample\obj\Debug\Netio-Sample_MarkupCompile.lref
+D:\Dev\GlaspCollection\Articoli\Netio-Sample\Netio-Sample\obj\Debug\App.baml
+D:\Dev\GlaspCollection\Articoli\Netio-Sample\Netio-Sample\obj\Debug\Netio-Sample.g.resources
+D:\Dev\GlaspCollection\Articoli\Netio-Sample\Netio-Sample\obj\Debug\Netio_Sample.Properties.Resources.resources
+D:\Dev\GlaspCollection\Articoli\Netio-Sample\Netio-Sample\obj\Debug\Netio-Sample.csproj.GenerateResource.cache
+D:\Dev\GlaspCollection\Articoli\Netio-Sample\Netio-Sample\obj\Debug\Netio-Sample.csproj.CoreCompileInputs.cache
+D:\Dev\GlaspCollection\Articoli\Netio-Sample\Netio-Sample\obj\Debug\Netio-Sample.exe
+D:\Dev\GlaspCollection\Articoli\Netio-Sample\Netio-Sample\obj\Debug\Netio-Sample.pdb
+D:\Dev\GlaspCollection\Articoli\Netio-Sample\Netio-Sample\obj\Debug\MainWindowXML.baml
+D:\Dev\GlaspCollection\Articoli\Netio-Sample\Netio-Sample\obj\Debug\MainWindowXML.g.cs
